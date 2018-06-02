@@ -25,17 +25,17 @@ document.getElementById("navMenu").innerHTML =
             '</a>' +
           '</li>' +
           '<li>' +
-            '<a href="people.html">' +
+            '<a href="team.html">' +
               '<span class="sliding-u-l-r-l">Hardware</span>' +
             '</a>' +
           '</li>' +
           '<li>' +
-            '<a href="contact.html">' +
+            '<a href="error.html">' +
               '<span class="sliding-u-l-r-l">Human Practices</span>' +
             '</a>' +
           '</li>' +
           '<li>' +
-            '<a href="igem.html">' +
+            '<a href="error.html">' +
               '<span class="sliding-u-l-r-l">Team</span>' +
             '</a>' +
           '</li>' +

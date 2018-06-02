@@ -25,7 +25,7 @@ document.getElementById("navMenu").innerHTML =
             '</a>' +
           '</li>' +
           '<li>' +
-            '<a href="team.html">' +
+            '<a href="error.html">' +
               '<span class="sliding-u-l-r-l">Hardware</span>' +
             '</a>' +
           '</li>' +
